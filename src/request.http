@@ -1,0 +1,24 @@
+# POST /qeats/menu HTTP/1.1
+# #POST /memes HTTP/1.1
+# Host: localhost:8081
+# Accept: application/json
+# Content-Type: application/json
+# Content-Length: 81
+      
+# {
+#   "name": "Jason derulo",
+#   "url": "www.kb.jpeg",
+#   "caption": 18.00
+# }
+
+# GET /qeats/v1/restaurants?latitude=19.157034&longitude=72.932744&searchFor=tamil HTTP/1.1
+# Host: localhost:8081
+# Accept: application/json
+
+# DELETE /qeats/delete  HTTP/1.1
+# Host : localhost:8081
+# Accept: application/json
+
+# POST /qeats/menu HTTP/1.1
+# Host : localhost:8081
+# Accept:application/json
